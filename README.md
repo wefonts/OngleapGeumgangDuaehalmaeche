@@ -1,1 +1,13 @@
-# OngleapGeumgangDuaehalmaeche
+<pre>
+@font-face {
+    font-family: "OngleapGeumgangDuaehalmaeche";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangDuaehalmaeche/OngleapGeumgangDuaehalmaeche.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangDuaehalmaeche/OngleapGeumgangDuaehalmaeche.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGeumgangDuaehalmaeche/OngleapGeumgangDuaehalmaeche.ttf") format("truetype");
+    font-display: swap;
+}
+
+  
+</pre>
